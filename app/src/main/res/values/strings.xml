@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Vaccine Slot Tracker</string>
+    <string name="pin_codes">Enter Pin Codes</string>
+    <string name="start_tracking_button">Start Tracking</string>
+    <string name="channel_name">VaccineNotificationChannel</string>
+    <string name="channel_description">This notification channel will be used to create a notification whenever a slot is available for the given pincode</string>
+    <string name="channel_id">CHANNEL33</string>
+    <string name="service_started_message">Vaccine slot tracking service has started!</string>
+    <string name="pick_date">Date</string>
+</resources>

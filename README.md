@@ -1,4 +1,4 @@
-# vaccineSlotTrackerApp
+# Vaccine Slot Tracker App
 
 Steps to start tracking:
 1. Enter the pincode(s) for which you want to track the slot availability. You can enter multiple pincodes separated by comma (Example: 110101,410501)

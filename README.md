@@ -20,5 +20,6 @@ Whenever a vaccine is available in any of the vaccine center under the selected 
 1. Download the "app-release.apk" file from https://github.com/akshay3394/vaccineSlotTrackerApp/blob/master/APK/app-release.apk
 2. Install the apk. The does not take any permission or user information 
 3. Follow above steps to start tracking
+4. After installation please remove battery optimization on this App so that OS will not kill the tracking service 
 
 Hope this helps. 

@@ -94,7 +94,10 @@ public class VaccineTrackerService extends TimerTask {
 
         List<Session> sessionList = sessions.getSessions();
 
-        sessionList.forEach(session -> {
+        sessionList
+                .stream()
+                .filter(session -> session.getAvailable_capacity()>0)
+                .forEach(session -> {
             createNotification(session);
         });
     }
